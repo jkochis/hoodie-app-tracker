@@ -30,7 +30,7 @@
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "dependencies": {
-    "hoodie": "git://github.com/hoodiehq/hoodie#tent"
+    "hoodie": "git://github.com/hoodiehq/hoodie#tent-pouchdb"
   },
   "devDependencies": {
     "@gr2m/frontend-test-setup": "^1.1.3",
